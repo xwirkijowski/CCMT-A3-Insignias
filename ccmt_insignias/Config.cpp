@@ -29,4 +29,12 @@ class CfgUnitInsignia {
 		texture = "\ccmt_insignias\img\crastinum_community.paa";
 		textureVehicle = "";
 	};
+
+	// Flag / Poland
+	class ccmt_insignia_2 {
+		displayName = "[FLAG]";
+		author = "CCMT_RaiX";
+		texture = "\ccmt_insignias\img\flag_poland.paa";
+		textureVehicle = "";
+	};
 };
