@@ -22,8 +22,9 @@ class CfgPatches {
 };
 
 class CfgUnitInsignia {
+	// Other / Crastinum Community
 	class ccmt_insignia_1 {
-		displayName = "Crastinum Community";
+		displayName = "[OTHER] Crastinum Community";
 		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\crastinum_community.paa";
 		textureVehicle = "";
