@@ -22,10 +22,19 @@ class CfgPatches {
 };
 
 class CfgUnitInsignia {
+	// Other / Crastinum Community
 	class ccmt_insignia_1 {
-		displayName = "Crastinum Community";
+		displayName = "[OTHER] Crastinum Community";
 		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\crastinum_community.paa";
+		textureVehicle = "";
+	};
+
+	// Flag / Poland
+	class ccmt_insignia_2 {
+		displayName = "[FLAG] Poland";
+		author = "CCMT_RaiX";
+		texture = "\ccmt_insignias\img\flag_poland.paa";
 		textureVehicle = "";
 	};
 };
