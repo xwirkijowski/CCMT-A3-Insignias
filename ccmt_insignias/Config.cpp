@@ -32,7 +32,7 @@ class CfgUnitInsignia {
 
 	// Flag / Poland
 	class ccmt_insignia_2 {
-		displayName = "[FLAG]";
+		displayName = "[FLAG] Poland";
 		author = "CCMT_RaiX";
 		texture = "\ccmt_insignias\img\flag_poland.paa";
 		textureVehicle = "";
