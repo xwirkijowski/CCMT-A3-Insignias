@@ -10,7 +10,7 @@
 | http://community.crastinum.eu/
 +---------------------------------------------------------+
 | 📧 modding[at]community.crastinum.eu
-+------------------------------------------------------//*/
++--------------------------------------------------------*/
 
 class CfgPatches {
 	class ccmt_insignias {
@@ -21,20 +21,111 @@ class CfgPatches {
 	};
 };
 
+/**
+ * Naming / versions:
+ * * Standard
+ * * Inverted
+ * * Desert
+ * * Multicam
+ * * Forest
+ * * ACU-DARK
+ * * ACU-LIGHT
+ * * SWAT / Black
+ *
+ * * Other colors
+ */
+
 class CfgUnitInsignia {
-	// Other / Crastinum Community
-	class ccmt_insignia_1 {
-		displayName = "[OTHER] Crastinum Community";
+
+	// Medic
+	class ccmt_ins_medic {
+		displayName = "[CCMT] Medic";
 		author = "CCMT_SleepyAsh17";
-		texture = "\ccmt_insignias\img\crastinum_community.paa";
+		texture = "\ccmt_insignias\img\medic.paa";
 		textureVehicle = "";
 	};
 
-	// Flag / Poland
-	class ccmt_insignia_2 {
-		displayName = "[FLAG] Poland";
-		author = "CCMT_RaiX";
+	// Medic Cross
+	class ccmt_ins_medic_cross {
+		displayName = "[CCMT] Medic Cross";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\medic_cross.paa";
+		textureVehicle = "";
+	};
+
+		// Medic Cross / Red
+		class ccmt_ins_medic_cross_red {
+			displayName = "[CCMT] Medic Cross (Red)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_red.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / SWAT
+		class ccmt_ins_medic_cross_swat {
+			displayName = "[CCMT] Medic Cross (SWAT)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_swat.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / Desert
+		class ccmt_ins_medic_cross_desert {
+			displayName = "[CCMT] Medic Cross (Desert)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_desert.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / Multicam
+		class ccmt_ins_medic_cross_multicam {
+			displayName = "[CCMT] Medic Cross (Multicam)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_multicam.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / Forest
+		class ccmt_ins_medic_cross_forest {
+			displayName = "[CCMT] Medic Cross (Forest)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_forest.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / ACU-L
+		class ccmt_ins_medic_cross_acul {
+			displayName = "[CCMT] Medic Cross (ACU-LIGHT)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_acul.paa";
+			textureVehicle = "";
+		};
+
+		// Medic Cross / ACU-D
+		class ccmt_ins_medic_cross_acud {
+			displayName = "[CCMT] Medic Cross (ACU-DARK)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\medic_cross_acud.paa";
+			textureVehicle = "";
+		};
+
+	/*****************************************
+	 * Flags
+	 */
+
+	// Poland
+	class ccmt_ins_poland {
+		displayName = "[CCMT][FLAG] Poland";
+		author = "CCMT_RaixHQ";
 		texture = "\ccmt_insignias\img\flag_poland.paa";
+		textureVehicle = "";
+	};
+
+	// United States
+	class ccmt_ins_usa {
+		displayName = "[CCMT][FLAG] United States";
+		author = "CCMT_RaixHQ";
+		texture = "\ccmt_insignias\img\flag_usa.paa";
 		textureVehicle = "";
 	};
 };

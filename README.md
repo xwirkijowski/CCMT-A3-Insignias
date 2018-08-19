@@ -1,5 +1,5 @@
 # CCMT Insignias ![Release v0.2](https://img.shields.io/badge/release-v0.2-blue.svg?style=for-the-badge)
-An Arma 3 patches and insignias addon created by Crastinum Community Modding Team (CCMT).
+An Arma 3 patches and insignias addon created by Crastinum Community Modding Team (CCMT)
 
 ![Addon overview image](/img/github-section-1.png)
 
