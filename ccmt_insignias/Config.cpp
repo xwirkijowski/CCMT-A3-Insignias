@@ -140,7 +140,7 @@ class CfgUnitInsignia {
 	// United States
 	class ccmt_ins_usa {
 		displayName = "[CCMT][FLAG] United States";
-		author = "CCMT_RaixHQ";
+		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\flag_usa.paa";
 		textureVehicle = "";
 	};
@@ -177,39 +177,63 @@ class CfgUnitInsignia {
 			textureVehicle = "";
 		};
 
+	// Germany
+	class ccmt_ins_germany {
+		displayName = "[CCMT][FLAG] Germany";
+		author = "CCMT_RaixHQ";
+		texture = "\ccmt_insignias\img\flag_germany.paa";
+		textureVehicle = "";
+	};
+
+	// Sweden
+	class ccmt_ins_sweden {
+		displayName = "[CCMT][FLAG] Sweden";
+		author = "CCMT_RaixHQ";
+		texture = "\ccmt_insignias\img\flag_sweden.paa";
+		textureVehicle = "";
+	};
+
+	// Belgium
+	class ccmt_ins_belgium {
+		displayName = "[CCMT][FLAG] Belgium";
+		author = "CCMT_RaixHQ";
+		texture = "\ccmt_insignias\img\flag_belgium.paa";
+		textureVehicle = "";
+	};
+
+	// France
+	class ccmt_ins_france {
+		displayName = "[CCMT][FLAG] France";
+		author = "CCMT_RaixHQ";
+		texture = "\ccmt_insignias\img\flag_france.paa";
+		textureVehicle = "";
+	};
+
 	/*****************************************
 	 * Other
 	 */
 
 	// Crastinum Community
-	class ccmt_ins_crastinum_community {
+	class ccmt_ins_cc {
 		displayName = "[CCMT][OTHER] Crastinum Community";
 		author = "CCMT_SleepyAsh17";
-		texture = "\ccmt_insignias\img\crastinum_community.paa";
+		texture = "\ccmt_insignias\img\cc.paa";
 		textureVehicle = "";
 	};
 
-	// Death Dealer
-	class ccmt_ins_death_dealer_black {
-		displayName = "[CCMT][OTHER] Death Dealer (BLK)";
+	// Crastinum Agency
+	class ccmt_ins_ca {
+		displayName = "[CCMT][OTHER] Crastinum Agency";
 		author = "CCMT_SleepyAsh17";
-		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
+		texture = "\ccmt_insignias\img\ca.paa";
 		textureVehicle = "";
 	};
 
-	// Death Dealer
-	class ccmt_ins_death_dealer_black {
-		displayName = "[CCMT][OTHER] Death Dealer (FG)";
+	// Crastinum Security Agency
+	class ccmt_ins_csa {
+		displayName = "[CCMT][OTHER] Crastinum Security Agency";
 		author = "CCMT_SleepyAsh17";
-		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
-		textureVehicle = "";
-	};
-
-	// Death Dealer
-	class ccmt_ins_death_dealer_black {
-		displayName = "[CCMT][OTHER] Death Dealer (TAN)";
-		author = "CCMT_SleepyAsh17";
-		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
+		texture = "\ccmt_insignias\img\csa.paa";
 		textureVehicle = "";
 	};
 };
