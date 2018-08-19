@@ -188,7 +188,7 @@ class CfgUnitInsignia {
 	// Sweden
 	class ccmt_ins_sweden {
 		displayName = "[CCMT][FLAG] Sweden";
-		author = "CCMT_RaixHQ";
+		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\flag_sweden.paa";
 		textureVehicle = "";
 	};
@@ -196,7 +196,7 @@ class CfgUnitInsignia {
 	// Belgium
 	class ccmt_ins_belgium {
 		displayName = "[CCMT][FLAG] Belgium";
-		author = "CCMT_RaixHQ";
+		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\flag_belgium.paa";
 		textureVehicle = "";
 	};
@@ -204,7 +204,7 @@ class CfgUnitInsignia {
 	// France
 	class ccmt_ins_france {
 		displayName = "[CCMT][FLAG] France";
-		author = "CCMT_RaixHQ";
+		author = "CCMT_SleepyAsh17";
 		texture = "\ccmt_insignias\img\flag_france.paa";
 		textureVehicle = "";
 	};
