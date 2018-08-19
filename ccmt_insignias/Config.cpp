@@ -209,6 +209,38 @@ class CfgUnitInsignia {
 		textureVehicle = "";
 	};
 
+	// Ukraine
+	class ccmt_ins_ukraine {
+		displayName = "[CCMT][FLAG] Ukraine";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\flag_ukraine.paa";
+		textureVehicle = "";
+	};
+
+	// Canada
+	class ccmt_ins_canada {
+		displayName = "[CCMT][FLAG] Canada";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\flag_canada.paa";
+		textureVehicle = "";
+	};
+
+		// Canada / Alt
+		class ccmt_ins_canada_alt {
+			displayName = "[CCMT][FLAG] Canada (Alt)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_canada_alt.paa";
+			textureVehicle = "";
+		};
+
+		// Canada / SWAT
+		class ccmt_ins_canada_swat {
+			displayName = "[CCMT][FLAG] Canada (SWAT/BLK)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_canada_swat.paa";
+			textureVehicle = "";
+		};
+
 	/*****************************************
 	 * Other
 	 */
@@ -236,4 +268,28 @@ class CfgUnitInsignia {
 		texture = "\ccmt_insignias\img\csa.paa";
 		textureVehicle = "";
 	};
+
+	// Strategic Homeland Division
+	class ccmt_ins_shd {
+		displayName = "[CCMT][OTHER] The Division SHD";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\shd.paa";
+		textureVehicle = "";
+	};
+
+	// SCP Foundation
+	class ccmt_ins_scpf {
+		displayName = "[CCMT][OTHER] SCP Foundation";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\scpf.paa";
+		textureVehicle = "";
+	};
+
+		// SCP Foundation / SWAT
+		class ccmt_ins_scpf_swat {
+			displayName = "[CCMT][OTHER] SCP Foundation (SWAT/BLK)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\scpf_swat.paa";
+			textureVehicle = "";
+		};
 };
