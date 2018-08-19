@@ -36,7 +36,7 @@ class CfgPatches {
  */
 
 class CfgUnitInsignia {
-
+	
 	// Medic
 	class ccmt_ins_medic {
 		displayName = "[CCMT] Medic";
@@ -63,7 +63,7 @@ class CfgUnitInsignia {
 
 		// Medic Cross / SWAT
 		class ccmt_ins_medic_cross_swat {
-			displayName = "[CCMT] Medic Cross (SWAT)";
+			displayName = "[CCMT] Medic Cross (SWAT/BLK)";
 			author = "CCMT_SleepyAsh17";
 			texture = "\ccmt_insignias\img\medic_cross_swat.paa";
 			textureVehicle = "";
@@ -121,11 +121,95 @@ class CfgUnitInsignia {
 		textureVehicle = "";
 	};
 
+		// Poland / Text
+		class ccmt_ins_poland_text {
+			displayName = "[CCMT][FLAG] Poland (Text)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_poland_text.paa";
+			textureVehicle = "";
+		};
+
+		// Poland / SWAT
+		class ccmt_ins_poland_text {
+			displayName = "[CCMT][FLAG] Poland (SWAT/BLK)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_poland_swat.paa";
+			textureVehicle = "";
+		};
+
 	// United States
 	class ccmt_ins_usa {
 		displayName = "[CCMT][FLAG] United States";
 		author = "CCMT_RaixHQ";
 		texture = "\ccmt_insignias\img\flag_usa.paa";
+		textureVehicle = "";
+	};
+
+		// United States / Desert
+		class ccmt_ins_usa_desert {
+			displayName = "[CCMT][FLAG] United States (Desert)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_usa_desert.paa";
+			textureVehicle = "";
+		};
+
+		// United States / Multicam
+		class ccmt_ins_usa_multicam {
+			displayName = "[CCMT][FLAG] United States (Multicam)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_usa_multicam.paa";
+			textureVehicle = "";
+		};
+
+		// United States / Forest
+		class ccmt_ins_usa_forest {
+			displayName = "[CCMT][FLAG] United States (Forest)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_usa_forest.paa";
+			textureVehicle = "";
+		};
+
+		// United States / SWAT
+		class ccmt_ins_usa_swat {
+			displayName = "[CCMT][FLAG] United States (SWAT/BLK)";
+			author = "CCMT_SleepyAsh17";
+			texture = "\ccmt_insignias\img\flag_usa_swat.paa";
+			textureVehicle = "";
+		};
+
+	/*****************************************
+	 * Other
+	 */
+
+	// Crastinum Community
+	class ccmt_ins_crastinum_community {
+		displayName = "[CCMT][OTHER] Crastinum Community";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\crastinum_community.paa";
+		textureVehicle = "";
+	};
+
+	// Death Dealer
+	class ccmt_ins_death_dealer_black {
+		displayName = "[CCMT][OTHER] Death Dealer (BLK)";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
+		textureVehicle = "";
+	};
+
+	// Death Dealer
+	class ccmt_ins_death_dealer_black {
+		displayName = "[CCMT][OTHER] Death Dealer (FG)";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
+		textureVehicle = "";
+	};
+
+	// Death Dealer
+	class ccmt_ins_death_dealer_black {
+		displayName = "[CCMT][OTHER] Death Dealer (TAN)";
+		author = "CCMT_SleepyAsh17";
+		texture = "\ccmt_insignias\img\death_dealer_blk.paa";
 		textureVehicle = "";
 	};
 };
