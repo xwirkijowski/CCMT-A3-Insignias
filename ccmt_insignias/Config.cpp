@@ -130,7 +130,7 @@ class CfgUnitInsignia {
 		};
 
 		// Poland / SWAT
-		class ccmt_ins_poland_text {
+		class ccmt_ins_poland_swat {
 			displayName = "[CCMT][FLAG] Poland (SWAT/BLK)";
 			author = "CCMT_SleepyAsh17";
 			texture = "\ccmt_insignias\img\flag_poland_swat.paa";
